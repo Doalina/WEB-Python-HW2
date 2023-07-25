@@ -1,0 +1,32 @@
+add Paige Martinez -5066893139992 
+add Michael Hughes -2773099100 --09/07/2022
+add Miranda Davis -001308548112945 -47658202245913 --12/12
+add Mark George -308634931700056 -001763281277031 --21/11
+add James Peters -2441591479 --29/10/1921
+add Chad White -1514106233 -6202026426 -585 301 5117 
+add Amanda Reed -8656977036 -0813926835 
+add Michael Robertson -1512396845 -2396587226 -7045875850 --17/12/1945
+add Carol Smith  
+change Carol Smith -5537143860 -3720368742 -+1004875297 
+call Carol Smith
+bday Carol Smith
+add Adam Patterson -+8219631504 -3619378052 --07/04/1978
+change Adam Patterson -5604874036 -0437721747 --01/03
+add Patricia Contreras  
+change Patricia Contreras -0103844493 
+remove Patricia Contreras
+call Patricia Contreras
+bday Patricia Contreras
+add Kevin Valencia -8169521295 -6804755219 
+change Kevin Valencia -6005193676 
+call Kevin Valencia
+add James Anderson -+16022967806370 -53190786002261 
+change James Anderson 
+add Michael Smith -8482102452805 
+call Michael Smith
+bday Michael Smith
+bdays 3987
+search
+show_all
+page
+exit
